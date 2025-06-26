@@ -1,4 +1,4 @@
-# wl_ant
+# wl_rate
 
 in function `start_EPI`, we can inject `wl_ssid` to do anything
 
