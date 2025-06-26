@@ -1,6 +1,6 @@
 # wl_rate
 
-in function `start_EPI`, we can inject `wl_ssid` to do anything
+in function `start_EPI`, we can inject `wl_rate` to do anything
 
 # PoC
 plz replace the session
