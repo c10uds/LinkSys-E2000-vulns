@@ -1,6 +1,6 @@
-# wl_ant
+# ttcp_size
 
-in function `start_EPI`, we can inject `wl_ant` to do anything
+in function `start_EPI`, we can inject `ttcp_size` to do anything
 
 # PoC
 plz replace the session
